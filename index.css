@@ -1,0 +1,20 @@
+.icon {
+  object-fit: cover;
+}
+.browse-page1,
+.course-detail,
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1320px;
+  height: 720px;
+}
+.browse-page1 {
+  top: -820px;
+}
+.browse-page {
+  position: relative;
+  width: 100%;
+  height: 720px;
+}
